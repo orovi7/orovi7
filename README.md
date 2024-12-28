@@ -1,7 +1,9 @@
 <img src="./Picsart_24-12-19_20-38-42-067.jpg" alt="Image Description">
 <h1 align="center">Hi 👋, I'm Rubaiya Tahamim Orovi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h1>About me</h1>
+<P>Hi, I’m Orovi! I’m a front-end developer and someone who loves sharing ideas and creativity. I enjoy exploring design, code, and personal interests—always looking to connect with like-minded people!</P>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orovi7&label=Profile%20views&color=0e75b6&style=flat" alt="orovi7" /> </p>
 
 
